@@ -1,0 +1,13 @@
+/vendor
+/node_modules
+/public/storage
+Homestead.yaml
+Homestead.json
+.env
+### Laravel template
+/bootstrap/compiled.php
+.env.*.php
+.env.php
+.env
+/.idea
+
